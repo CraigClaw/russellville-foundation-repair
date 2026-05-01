@@ -1,0 +1,16 @@
+{
+  "name": "Russellville Foundation Pros",
+  "short_name": "Russellville Foundation",
+  "description": "Foundation Repair in Russellville, Arkansas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#25483f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
